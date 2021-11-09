@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./https://github.com/mgkh286/multi-language-page/blob/master/design/desktop.png)
-![](./https://github.com/mgkh286/multi-language-page/blob/master/design/mobile.png)
+![](https://github.com/mgkh286/multi-language-page/blob/master/design/desktop.png)
+![](https://github.com/mgkh286/multi-language-page/blob/master/design/mobile.png)
 
 ### Links
 
